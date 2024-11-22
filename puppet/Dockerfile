@@ -1,4 +1,4 @@
-FROM      	ubuntu:trusty
+FROM      	ubuntu:trusty-20190425
 MAINTAINER 	Dominik Richter "dominik.richter@gmail.com"
 
 # make sure the package repository is up to date
